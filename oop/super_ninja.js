@@ -19,7 +19,7 @@ class Ninja{
         return this;// adding 10 levels of health to the ninja
     }
 
-}
+}// this is a commit
 
 class Sensei extends Ninja{
     constructor(nameInput){
